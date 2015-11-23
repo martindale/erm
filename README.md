@@ -4,8 +4,6 @@
 
 Translate strings of text into ermegerdese.
 
-![erm](http://i.imgur.com/7rCX1rA.jpg)
-
 ## Quick Start
 While erm's API is relatively complex, getting started is easy:
 ```js
@@ -13,6 +11,8 @@ var erm = require('erm');
 erm('Ohmygod.');
 > ER MAH GERD.
 ```
+
+![erm](http://i.imgur.com/7rCX1rA.jpg)
 
 ## Contributions
 We'll happily accept pull requests and improvements.  We'd love to achieve 100% test coverage!
