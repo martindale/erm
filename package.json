@@ -1,0 +1,33 @@
+{
+  "name": "erm",
+  "version": "0.0.1",
+  "description": "ermegerd.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "coverage": "istanbul cover _mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/martindale/erm.git"
+  },
+  "keywords": [
+    "erm",
+    "ermegerd",
+    "omg",
+    "text",
+    "translation",
+    "fun"
+  ],
+  "author": "Eric Martindale",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martindale/erm/issues"
+  },
+  "homepage": "https://github.com/martindale/erm",
+  "devDependencies": {
+    "coveralls": "^2.11.4",
+    "istanbul": "^0.4.0",
+    "mocha": "^2.3.4"
+  }
+}
